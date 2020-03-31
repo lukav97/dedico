@@ -1116,7 +1116,7 @@ section.lazy-placeholder:after {
 .cid-rUHjRwwiHZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/silver-and-gold-coins-128867-2000x1333.jpg");
+  background-image: url("../../../assets/images/pozadina2-2000x1600.jpg");
 }
 .cid-rUHjRwwiHZ .mbr-section-subtitle {
   color: #767676;
@@ -1209,6 +1209,30 @@ section.lazy-placeholder:after {
 }
 .cid-rUHjRwwiHZ .mbr-timeline-text {
   text-align: left;
+}
+.cid-rUHjRwwiHZ .mbr-section-title {
+  color: #232323;
+}
+.cid-rUOS6jfYyc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rUOS6jfYyc .title {
+  margin-bottom: 2rem;
+}
+.cid-rUOS6jfYyc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rUOS6jfYyc a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rUOS6jfYyc a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rUOS6jfYyc textarea.form-control {
+  min-height: 188px;
 }
 .cid-rUHackhe4o .navbar {
   background: #ffffff;
@@ -2194,6 +2218,39 @@ section.lazy-placeholder:after {
 @media (max-width: 300px) {
   .cid-rUNiu4WW5Q .card-img span {
     font-size: 40px !important;
+  }
+}
+.cid-rUOV2u9Pka {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rUOV2u9Pka h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rUOV2u9Pka p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rUOV2u9Pka .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rUOV2u9Pka .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rUOV2u9Pka .mbr-text {
+  color: #767676;
+}
+.cid-rUOV2u9Pka .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rUOV2u9Pka .card:not(.last-child) {
+    padding-bottom: 2rem;
   }
 }
 .cid-rUHackhe4o .navbar {
